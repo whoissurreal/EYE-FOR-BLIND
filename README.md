@@ -2,7 +2,7 @@
 
 📌 Overview
 
-**Eye for the Blind** is an AI-powered assistive system designed to help visually impaired individuals understand their surroundings. The model takes an image as input, generates a natural language description, and converts it into speech.
+**ICAGnet** is an AI-powered assistive system designed to help visually impaired individuals understand their surroundings. The model takes an image as input, generates a natural language description, and converts it into speech.
 
 This project combines **Computer Vision**, **Natural Language Processing**, and **Text-to-Speech (TTS)** to create a complete multimodal pipeline.
 
