@@ -1,7 +1,6 @@
-# EYE FOR BLIND
-# 👁️ Eye for the Blind – Image Captioning with Audio Output
+ ICAGnet: Incorporating Attention with Deep Learning Approach for Audio Image Descriptions
 
-## 📌 Overview
+📌 Overview
 
 **Eye for the Blind** is an AI-powered assistive system designed to help visually impaired individuals understand their surroundings. The model takes an image as input, generates a natural language description, and converts it into speech.
 
